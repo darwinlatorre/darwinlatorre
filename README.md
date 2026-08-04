@@ -10,34 +10,34 @@
       <table>
         <tr>
           <td width="100" align="center" valign="top">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" title="Terraform">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="35" height="35" alt="Terraform" title="Terraform">
             &nbsp;&nbsp;&nbsp;&nbsp;                  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" title="Jenkins">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="35" height="35" alt="Jenkins" title="Jenkins">
             &nbsp;&nbsp;&nbsp;&nbsp;                  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="35" height="35" alt="GitHub Actions" title="GitHub Actions">
             &nbsp;&nbsp;&nbsp;&nbsp;                  
-            <img src="https://cdn.simpleicons.org/hashicorp" width="40" height="40" alt="Hashicorp" title="Hashicorp">
-            <p>━━━━━━━━━━━━━━━━━━━</p>
+            <img src="https://cdn.simpleicons.org/hashicorp" width="35" height="35" alt="Hashicorp" title="Hashicorp">
+            <p>━━━━━━━━━━━━━━━━</p>
           </td>
           <td width="100" align="center" valign="top">                  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="35" height="35" alt="Docker" title="Docker">
             &nbsp;&nbsp;&nbsp;&nbsp;                  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40" height="40" alt="Kubernetes" title="Kubernetes">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="35" height="35" alt="Kubernetes" title="Kubernetes">
             &nbsp;&nbsp;&nbsp;&nbsp;                  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" width="40" height="40" alt="Helm" title="Helm">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" width="35" height="35" alt="Helm" title="Helm">
             &nbsp;&nbsp;&nbsp;&nbsp;                  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" title="Spring Boot">
-            <p>━━━━━━━━━━━━━━━━━━━</p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="35" height="35" alt="Spring Boot" title="Spring Boot">
+            <p>━━━━━━━━━━━━━━━━</p>
           </td>
           <td width="100" align="center" valign="top">                  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" alt="AWS" title="AWS">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="35" height="35" alt="AWS" title="AWS">
             &nbsp;&nbsp;&nbsp;&nbsp;                  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" title="Google Cloud">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="35" height="35" alt="Google Cloud" title="Google Cloud">
             &nbsp;&nbsp;&nbsp;&nbsp;                  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus" title="Prometheus">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="35" height="35" alt="Prometheus" title="Prometheus">
             &nbsp;&nbsp;&nbsp;&nbsp;                  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana" title="Grafana">
-            <p>━━━━━━━━━━━━━━━━━━━</p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="35" height="35" alt="Grafana" title="Grafana">
+            <p>━━━━━━━━━━━━━━━━</p>
           </td>
         </tr>
       </table>
@@ -45,14 +45,14 @@
       <table>
         <tr>
           <td width="100" align="center">                  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="35" height="35" alt="MongoDB" title="MongoDB">
             &nbsp;&nbsp;&nbsp;&nbsp;                  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" title="Redis">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="35" height="35" alt="Redis" title="Redis">
             &nbsp;&nbsp;&nbsp;&nbsp;                  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" alt="Angular" title="Angular">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" height="35" alt="Angular" title="Angular">
             &nbsp;&nbsp;&nbsp;&nbsp;                  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="40" height="40" alt="SonarQube" title="SonarQube">
-            <p>━━━━━━━━━━━━━━━━━━━</p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="35" height="35" alt="SonarQube" title="SonarQube">
+            <p>━━━━━━━━━━━━━━━━</p>
           </td>
         </tr>
       </table>
