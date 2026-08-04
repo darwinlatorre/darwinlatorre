@@ -1,10 +1,10 @@
 <div align="center">
           <img src="assets/banner.png" alt="Welcome! I'm Darwin" width="100%">
       <br>
+      <br>
       <p align="left">
         Hi, my name is <strong>Darwin Latorre</strong>. I'm a Systems Engineer with around two years of experience in DevOps and cloud infrastructure. I've led CI/CD pipelines in GitLab, managed Kubernetes clusters, and built infrastructure as code with Terraform and Terragrunt. My primary cloud is AWS, and I'm now expanding into GCP.
       </p>
-      <br>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="35" height="35" alt="Terraform" title="Terraform">
         &nbsp;&nbsp;
@@ -39,5 +39,4 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="35" height="35" alt="SonarQube" title="SonarQube">
       </p>
       <p><sub><code>BUILD · AUTOMATE · OBSERVE · IMPROVE</code></sub></p>
-      <br>
 </div>
