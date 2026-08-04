@@ -1,5 +1,4 @@
 <div align="center">
-      <br>
           <h1>Welcome! I'm Darwin 🧙‍♂️</h1>
           <h3>DevOps, Cloud Engineer and Developer</h3>
       <br>
@@ -40,6 +39,6 @@
         &nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="35" height="35" alt="SonarQube" title="SonarQube">
       </p>
-      <p><sub><code>BUILD · AUTOMATE · OBSERVE · IMPROVE</code></sub></p>
+      <p><code>BUILD · AUTOMATE · OBSERVE · IMPROVE</code></p>
       <br>
 </div>
