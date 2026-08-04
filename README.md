@@ -14,7 +14,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="35" height="35" alt="GitHub Actions" title="GitHub Actions">
         &nbsp;&nbsp;
         <img src="https://cdn.simpleicons.org/hashicorp" width="35" height="35" alt="Hashicorp" title="Hashicorp">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="35" height="35" alt="Docker" title="Docker">
         &nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="35" height="35" alt="Kubernetes" title="Kubernetes">
@@ -22,7 +22,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" width="35" height="35" alt="Helm" title="Helm">
         &nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="35" height="35" alt="Spring Boot" title="Spring Boot">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="35" height="35" alt="AWS" title="AWS">
         &nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="35" height="35" alt="Google Cloud" title="Google Cloud">
@@ -30,7 +30,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="35" height="35" alt="Prometheus" title="Prometheus">
         &nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="35" height="35" alt="Grafana" title="Grafana">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="35" height="35" alt="MongoDB" title="MongoDB">
         &nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="35" height="35" alt="Redis" title="Redis">
